@@ -1,0 +1,22 @@
+/* body{
+    background-color: blue;
+} */
+
+h2{
+    color: brown;
+    border: 3px dashed blue;
+}
+
+h3{
+    border: 3px solid gray;
+}
+
+.third {
+    background-color: antiquewhite;
+}
+
+#unique {
+    background-color: blueviolet;
+    font-weight: 600;
+    text-align: center;
+}
